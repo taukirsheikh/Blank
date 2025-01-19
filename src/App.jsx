@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <div>Blank</div>
+    <div>Scratch Blank</div>
     </>
   )
 }
